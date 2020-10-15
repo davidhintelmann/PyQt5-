@@ -5,7 +5,7 @@ In the src directory there is a fbs project to create a stand alone python execu
 
 ## graphs.py
 
-This is a very simple graphing application, written in python. Can only accept .csv files and can only do a line plot for simple Y vs. X graphs (two variables).
+This is a very simple graphing application, written in python. Can only accept .csv files and can only do a line plot for simple Y vs. X graphs (two variables). A sample .csv file has been added in this directory called 'out.csv'
 
 ![Simple graphing utility written in Python](img/graph/a.png)
 
